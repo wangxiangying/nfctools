@@ -43,6 +43,7 @@
         <activity android:name=".activity.WriteMUActivity"
             android:launchMode="singleTop"
             android:label="@string/str_write_mu"/>
+        <activity android:name=".activity.NFCActivity" />
     </application>
 
 </manifest>
